@@ -90,3 +90,10 @@ h1 {
   max-height: 50vh; 
   overflow: auto; 
 } 
+
+.texto-com-borda {
+  border: 3px solid rgb(64, 46, 77);
+  padding: 7px;
+  display: inline-block;
+  border-radius: 12px;
+}
